@@ -1,2 +1,2 @@
 # cs221-proj
-Comparative reconstruction using machine ｌearning.
+Comparative reconstruction using machine learning.
