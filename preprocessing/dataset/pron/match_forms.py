@@ -2,6 +2,8 @@
 # CS 221
 # Andrew Yang
 
+# Code and phonological data adapted from https://en.wiktionary.org/wiki/Module:ltc-pron
+
 from util_ltc import load_resources
 import fileinput, re, json, sys
 

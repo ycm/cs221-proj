@@ -2,7 +2,10 @@
 # CS 221
 # Recreate ltc-pron scripts, in python3
 
+# Code and phonological data adapted from https://en.wiktionary.org/wiki/Module:ltc-pron
+
 import re
+
 
 init_type = {
   '幫': 1, '帮': 1, '非': 1, '滂': 2, '敷': 2,
