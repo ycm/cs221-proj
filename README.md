@@ -11,7 +11,9 @@ The following is a brief overview of the codebase:
 
 #### /
 
-###### 
+This folder mainly contains the implementations of the models themselves.
+
+The baseline model is in `baseline-model.ipynb`. The LR-1 model is in `model-logreg.ipynb`. The LR-2 model is in `model-one-vs-rest-lr.ipynb`. The MLP-1 model is in `model-nn-keras.ipynb`. The grid search and cross validation for MLP-2 are in `model-nn-2-keras-cv-and-grid-search.ipynb`. The final implementation and parameters for MLP-2 are in `model-nn-2-keras-final.ipynb`. 
 
 #### /preprocessing/dataset/
 
