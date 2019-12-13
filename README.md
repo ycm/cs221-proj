@@ -34,4 +34,4 @@ This folder contains relevant figures and graphs that we included in our poster 
 
 #### /deliverables/
 
-This folder contains the project proposal, progress report, poster, and final report, as well as a sample of our data.
+This folder contains the project proposal, progress report, poster, and final report, as well as a sample of our data as `data.zip`.
