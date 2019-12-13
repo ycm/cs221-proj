@@ -5,8 +5,6 @@ We focus on reconstructions of Middle Chinese, an archaic prestige variety of Ch
 
 For an in-depth explanation of our goals and results, please consult the files in `/deliverables/`.
 
-
-
 The following is a brief overview of the codebase:
 
 #### /
@@ -25,11 +23,11 @@ The `csv` files and `xlsx` files, along with the `output` folders are intermedia
 
 #### /model/
 
-
+This folder contains the data matrices that we our models load and train on.
 
 #### /figs/
 
-
+This folder contains relevant figures and graphs that we included in our poster and final report.
 
 #### /deliverables/
 
