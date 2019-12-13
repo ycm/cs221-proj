@@ -1,4 +1,7 @@
 # Comparative reconstruction of Middle Chinese with deep learning
+
+🌲 Andrew Yang, Ken Hong, Nash Luxsuwong | CS 221 🌲
+
 This project aims to apply machine learning to comparative linguistic reconstruction. Many East Asian languages today have standardized pronunciations for Chinese characters. The character for `middle' is pronounced /ʈʂɔŋ/ in Mandarin, /t͡sʊŋ/ in Cantonese, /tɕuŋ/ in Korean, etc. Using the known pronunciation of Chinese characters in modern Sinitic and Sino-Xenic languages, historical linguists have created reconstructions ancestors of modern Chinese languages thought to exist a long time ago.
 
 We focus on reconstructions of Middle Chinese, an archaic prestige variety of Chinese spoken over a thousand years ago. We parsed Wiktionary to gather the pronunciations of over 15,000 Chinese characters in East Asian languages as diverse as Mandarin, Japanese, and Korean, and aligned them to reconstructed pronunciations devised by influential historical linguists such as Bernhard Karlgren \cite{Karlgren} and others (also from Wiktionary). Because individual reconstruction schemes are not directly comparable, we are working only with Karlgren's system at the moment. 
@@ -7,7 +10,7 @@ For an in-depth explanation of our goals and results, please consult the files i
 
 The following is a brief overview of the codebase:
 
-#### /
+#### / (root)
 
 This folder mainly contains the implementations of the models themselves.
 
